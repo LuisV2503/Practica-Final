@@ -1,9 +1,12 @@
 import java.util.Scanner;
 
 public class MenuContratos {
-    public static void main(String[] args) {
 
-        Scanner sc = new Scanner(System.in);
+    Scanner sc = new Scanner(System.in);
+
+    public void MenuContratos() {
+
+        
         boolean continuar = true;
 
         while (continuar) {
